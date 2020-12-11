@@ -107,5 +107,5 @@ public class Mailtb implements java.io.Serializable {
 	public void setTemp4(String temp4) {
 		this.temp4 = temp4;
 	}
-
+//开发人员
 }
