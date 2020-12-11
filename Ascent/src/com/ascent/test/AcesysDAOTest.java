@@ -11,7 +11,7 @@ import junit.framework.TestSuite;
  */
 public class AcesysDAOTest {
 	public static Test suite() {
-		TestSuite suite = new TestSuite("Test for acesys");
+		TestSuite suite = new TestSuite("Test for acesys项目经理");
 		// $JUnit-BEGIN$
 		//���ProductDAOTest������
 		suite.addTestSuite(ProductDAOTest.class);
