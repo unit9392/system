@@ -5,7 +5,7 @@ import com.ascent.dao.test.ProductDAOTest;
 import junit.framework.Test;
 import junit.framework.TestSuite;
 /**
- * ²âÊÔÌ×¼ş
+ * ï¿½ï¿½ï¿½ï¿½ï¿½×¼ï¿½
  * @author ascent
  *
  */
@@ -13,10 +13,10 @@ public class AcesysDAOTest {
 	public static Test suite() {
 		TestSuite suite = new TestSuite("Test for acesys");
 		// $JUnit-BEGIN$
-		//Ìí¼ÓProductDAOTest²âÊÔÀà
+		//ï¿½ï¿½ï¿½ProductDAOTestï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		suite.addTestSuite(ProductDAOTest.class);
 		
-		//ÕâÀï»¹¿ÉÒÔÌí¼ÓÆäËû²âÊÔÀà
+		//ï¿½ï¿½ï¿½ï»¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		
 		// $Junit-END$
 		return suite;
